@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<link rel="stylesheet" href="mystyle.css">
+	<link rel="stylesheet" href="styles.css">
 	<link rel="shortcut icon" type="image/png" href="nm.png">
 	<script src="https://kit.fontawesome.com/9f49c4b2c4.js" crossorigin="anonymous"></script>
     <title>nrmasotes</title>
