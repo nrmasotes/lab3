@@ -22,7 +22,7 @@
 		<a href="https://www.linkedin.com/in/nathaniel-hope-masotes-92971321b/"><i class="fa-brands fa-linkedin"></i></a>
 		
 		<li style="float:left"><a  href="#row">
-			<img src="nm.png" width="25px" height="25px" overflow="hidden" margin-top="-6px" margin-right="10px"></a></li>
+			<img src="img/nm.png" width="25px" height="25px" overflow="hidden" margin-top="-6px" margin-right="10px"></a></li>
 	</main>
 
 	
@@ -46,7 +46,7 @@
 	<p id="demo"></p>
 		</div>
 		<div class="pfp">
-			<img src="pfp.gif" 
+			<img src="img/pfp.gif" 
 			alt="profile pic" width="400" height="350"  style="width: 250px; 
 			margin-left: 50px; position: relative; border-radius: 5%;" >
 		</div> 
@@ -68,10 +68,10 @@
 				in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
 	</div>
 			  <div class="projects">
-				  <img src="RAMS Portal mobile ver.  INMEDIA (1).gif" 
+				  <img src="img/RAMS Portal mobile ver.  INMEDIA (1).gif" 
 				  alt="profile pic" width="400" height="300"  style="width: 200px; 
 				  margin-left: 200px; position: relative; border-radius: 2%;">
-				  <img src="proj2.png" 
+				  <img src="img/proj2.png" 
 				  alt="pnr demo" width="1000px" height="250px"  style="width: 500px; 
 				  margin-left: 200px; position: relative; border-radius: 2%; margin-top: 1px;">
 			  </div>
