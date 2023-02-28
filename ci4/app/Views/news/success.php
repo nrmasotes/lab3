@@ -1,1 +1,1 @@
-<p>News item created successfully.</p>
+<p>Guest entry created successfully.</p>
