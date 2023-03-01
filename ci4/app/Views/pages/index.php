@@ -83,6 +83,20 @@
 			<h1>Contact Me! please...</h1>
 			<p><i class="fa-regular fa-envelope"></i> nrmasotes@student.apc.edu.ph</p>
 			<p><i class="fa-solid fa-phone"></i> 09496723641</p>
+			
+		    <form method="post" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>">  
+            <input type="text" placeholder="Name" id="fullName" name="fullName">
+			<br>
+			<br>
+            <input type="email" placeholder="Email" id="emailUsed" name="emailUsed">
+			<br>
+			<br>
+            <textarea rows="6" placeholder="Comment/Suggestion" id="commentInput" name="commentInput"></textarea>
+			<br>
+			<br>
+            <button type="submit" class="btn btn2">Submit</button>
+            </form>
+			<?php include 'php/form.php'; ?>
 		</div>
 </div>
 		<br>
