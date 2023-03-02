@@ -63,17 +63,23 @@
 <div class="row">
 	<div id="myportfolio">   
 		<h1>My Portfolio</h1>
-			<p>Here are the past projects that I worked together with my groupmates from my previous subjects. I did enjoy (including hard times) designing wireframes and a Python application</p>
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit 
-				in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+			<p>Here are the past projects that I worked together with my groupmates from my previous subjects. 
+				I did enjoy (including hard times) designing wireframes and a Python application</p>
 	</div>
-			  <div class="projects">
+			  <div class="project1">
 				  <img src="img/RAMS Portal mobile ver.  INMEDIA (1).gif" 
 				  alt="profile pic" width="400" height="300"  style="width: 200px; 
 				  margin-left: 200px; position: relative; border-radius: 2%;">
+				  			<p>We we're tasked to revamp the APC RAMS portal in our subject INMEDIA last term. With a help from my groupmate
+							, we produced this high fidelity wireframe. We did not expect that our professor liked our work. But our hard work really
+							dit pay off </p>
+			  </div>
+			  <div class="project2">
 				  <img src="img/proj2.png" 
 				  alt="pnr demo" width="1000px" height="250px"  style="width: 500px; 
 				  margin-left: 200px; position: relative; border-radius: 2%; margin-top: 1px;">
+				  			<p>The PNR Computing system is a ticket machine app created for commuters to utilize the transaction 
+								of their train tickets with the use of data structure; array list and queue. </p>
 			  </div>
 			  <br>
 			  <br>
@@ -83,8 +89,10 @@
 			<h1>Contact Me! please...</h1>
 			<p><i class="fa-regular fa-envelope"></i> nrmasotes@student.apc.edu.ph</p>
 			<p><i class="fa-solid fa-phone"></i> 09496723641</p>
-			
-		    <form method="post" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>">  
+		</div>
+</div>
+
+	            <form method="post" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>">  
             <input type="text" placeholder="Name" id="fullName" name="fullName">
 			<br>
 			<br>
@@ -96,9 +104,17 @@
 			<br>
             <button type="submit" class="btn btn2">Submit</button>
             </form>
-			<?php include 'php/form.php'; ?>
+		<br>
+		<br>
+		<br>
+		<br>
+
 		</div>
 </div>
+		<div class="footer">
+				<h3>&copy; Nathaniel Masotes  2023</h3>
+		</div>
+
 		<br>
 		<br>
 		<br>
